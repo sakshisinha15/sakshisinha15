@@ -55,7 +55,9 @@ Computer Science Engineering Student | Aspiring Software Engineer | Data Science
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me"/>
 </a>
 
-
+<a href="https://www.geeksforgeeks.org/profile/sakshisi0tnj" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
 </p>
 
