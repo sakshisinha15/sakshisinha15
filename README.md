@@ -1,100 +1,186 @@
-```md
-# 💫 About Me:
-👩‍💻 I am **Sakshi Sinha**, a passionate and dedicated B.Tech Computer Science Engineering student 🎓 at **Lovely Professional University**.  
+<h1 align="center">
+Hi 👋, I'm Sakshi Sinha
+</h1>
 
-🚀 I have a strong interest in **Data Science 📊, Machine Learning 🤖, Backend Development 🌐, and AI-driven technologies**.  
+<h3 align="center">
+Computer Science Engineering Student | Aspiring Software Engineer | Data Science & Machine Learning Enthusiast
+</h3>
 
-💡 I enjoy building real-world projects and continuously learning new technologies to improve my technical and problem-solving skills 🧠.  
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sakshisinha15&label=Profile%20Views&color=0e75b6&style=flat" alt="sakshisinha15"/>
+</p>
 
-📈 I have worked on projects such as:
-- Obesity Level Prediction Model 🏥
-- AI Impact Analysis Dashboard 📊
-- Spotify Data Analytics Dashboard 🎵
+<p align="center">
 
-⚡ I actively participate in hackathons, coding competitions, and open-source learning opportunities 🌟.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Developer;Machine+Learning+Enthusiast;Spring+Boot+Developer;Power+BI+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-🤝 I am always eager to collaborate on innovative projects, explore emerging technologies 🔥, and grow as a software engineer 🚀.
-
----
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshisinha1/) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/sakshisinha15) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sakshisinha2854@gmail.com)
+</p>
 
 ---
 
-# 💻 Tech Stack:
+## 👩‍💻 About Me
+
+- 🎓 B.Tech CSE Student at **Lovely Professional University**
+- 💻 Passionate about **Software Development, Machine Learning and Data Analytics**
+- 🌱 Currently learning **Spring Boot, React.js and Generative AI**
+- 🚀 Solved **200+ DSA Problems**
+- 🏆 Oracle AI Foundations Certified
+- 📊 Love building ML Models and Interactive Dashboards
+- 💬 Ask me about **Java, Spring Boot, Machine Learning, Power BI and DSA**
+- ⚡ Fun Fact: I enjoy turning raw data into meaningful insights.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:sakshisinha2854@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sakshisinha15">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/sakshisinha1">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Tech Stack
 
 ### 👨‍💻 Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### 🌐 Web & Backend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-### 🛢 Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 📊 Data Science & Analytics
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
 
 ---
 
-# 🚀 Featured Projects
+### 🌐 Web Development
 
-🔹 **Obesity Level Prediction Model**  
-Machine Learning model achieving **97.40% accuracy** using SVM and Scikit-learn.
-
-🔹 **AI Impact on Student Learning**  
-Power BI dashboard analyzing AI tool usage and learning outcomes.
-
-🔹 **Spotify Data Analysis Dashboard**  
-Interactive dashboard visualizing music streaming trends and analytics.
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate)
 
 ---
 
-# 📊 GitHub Stats:
+### 🤖 Machine Learning
 
-![](https://github-readme-stats.vercel.app/api?username=sakshisinha15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=sakshisinha15&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshisinha15&theme=tokyonight&hide_border=true&layout=compact)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 
 ---
 
-# 🏆 GitHub Trophies
+### 📊 Data Analytics
 
-![](https://github-profile-trophy.vercel.app/?username=sakshisinha15&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
----
-
-# ✨ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel)
 
 ---
 
-# 👀 Profile Views
+### 🗄 Database
 
-![](https://komarev.com/ghpvc/?username=sakshisinha15&label=Profile%20Views&color=0e75b6&style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
 
 ---
-```
+
+### ⚙ Tools
+
+Git • GitHub • Eclipse • VS Code • Power Query • Jupyter Notebook
+
+---
+
+# 📌 Featured Projects
+
+## 🥗 Obesity Level Prediction Model
+
+- Built an end-to-end Machine Learning pipeline.
+- Compared SVM, Logistic Regression, Decision Tree & Naive Bayes.
+- Achieved **97.4% Accuracy** using SVM.
+- Evaluated Precision, Recall & F1 Score.
+
+**Tech Stack**
+
+Python • Pandas • NumPy • Scikit-Learn
+
+---
+
+## 📊 Impact of AI Tools on Student Learning
+
+- Expanded survey data from **124 → 8000+ records**
+- Designed an interactive Power BI Dashboard
+- Built DAX measures
+- Used Power Query for preprocessing
+
+**Tech Stack**
+
+Power BI • Power Query • DAX
+
+---
+
+# 🏅 Certifications
+
+✔ Oracle Cloud Infrastructure 2025 AI Foundations Associate
+
+✔ Introduction to Generative AI – FutureSkills
+
+✔ Deloitte Data Analytics Job Simulation
+
+✔ NPTEL Cloud Computing
+
+---
+
+# 🏆 Achievements
+
+🏅 200+ Problems Solved
+
+🏅 LeetCode 50 Days Badge
+
+🏅 LeetCode 100 Days Badge
+
+🥈 2nd Position – Microsoft Achievers Club C Programming Quiz
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sakshisinha15&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshisinha15&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sakshisinha15&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshisinha15&theme=tokyo-night"/>
+
+</p>
+
+---
+
+### ⭐ "Code. Learn. Build. Repeat."
