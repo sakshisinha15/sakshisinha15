@@ -47,6 +47,16 @@ Computer Science Engineering Student | Aspiring Software Engineer | Data Science
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<a href="https://leetcode.com/u/Dl03RhjBs5/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://sakshisinha-portfolio.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me"/>
+</a>
+
+
+
 </p>
 
 ---
