@@ -51,53 +51,19 @@ Computer Science Engineering Student | Aspiring Software Engineer | Data Science
 
 ---
 
-# 🚀 Tech Stack
+## 💻 Tech Stack
 
-### 👨‍💻 Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-
----
-
-### 🌐 Web Development
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate)
-
----
-
-### 🤖 Machine Learning
-
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-
----
-
-### 📊 Data Analytics
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel)
-
----
-
-### 🗄 Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
-
----
-
-### ⚙ Tools
-
-Git • GitHub • Eclipse • VS Code • Power Query • Jupyter Notebook
-
----
+| Property | Technologies |
+|----------|--------------|
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=orange) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=FFD43B) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot) ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6) |
+| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikitlearn) ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) |
+| **Data Analytics** | ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi) ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau) ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoftexcel) |
+| **Developer Tools** | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode) ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse) |
+| **Core CS** | ![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-05122A?style=flat) ![DBMS](https://img.shields.io/badge/-DBMS-05122A?style=flat) ![Operating System](https://img.shields.io/badge/-Operating%20System-05122A?style=flat) ![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-05122A?style=flat) ![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat) |
+| **Currently Learning** | ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=jsonwebtokens) ![Spring Security](https://img.shields.io/badge/-Spring%20Security-05122A?style=flat&logo=springsecurity) ![Generative AI](https://img.shields.io/badge/-Generative%20AI-05122A?style=flat&logo=openai) |
 
 # 📌 Featured Projects
 
